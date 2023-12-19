@@ -1,4 +1,4 @@
 # my-test-repo
 My Test GitHub Repository
 
-README.md was manually changed.  This file was modified locally
+This line was added to resolve conflict between local and remote repo with VS Code.
